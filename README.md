@@ -6,7 +6,8 @@ Deze applicatie converteert een export van het Puntcommagescheiden CSV formaat n
 
 Instructies:
 
-* Download the applicatie naar b.v. je Downloads directorie. Dit geeft een applicatie genaamd "CashflowINGSpaarCSVConversie.exe".
+* Navigeer naar de laatste "Release" rechts op deze pagina (v0.0.1 met de groene "latest" ernaast).
+* Download daar het "CashflowINGSpaarCSVConversie.exe" bestand naar b.v. je Downloads directorie.
 * Download het ING Puntcommagescheiden bestand voor je spaarrekening.
 * Sleep dit gedownloade bestand op het programma.
 
